@@ -12,6 +12,12 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 group-title="NASIONAL",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
+#EXTINF:-1 group-title="NASIONAL",TRANS TV
+https://live.cnbcindonesia.com/livecnbc/smil:transtv.smil/master.m3u8
+
+#EXTINF:-1 group-title="NASIONAL",TRANS 7
+https://live.cnbcindonesia.com/livecnbc/smil:trans7.smil/master.m3u8
+
 #EXTINF:-1 group-title="NASIONAL",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
